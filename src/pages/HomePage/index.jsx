@@ -1,6 +1,6 @@
-import "./index.scss";
-import ladyFascia from "../../assets/lady-fascia.png";
-import underConstruction from "../../assets/under-construction.png";
+import './index.scss';
+import ladyFascia from '../../assets/lady-fascia.png';
+import underConstruction from '../../assets/under-construction.png';
 
 function HomePage() {
   return (
@@ -14,10 +14,10 @@ function HomePage() {
               alt="lady fascia"
             />
             <h1 className="home-content__construction__text">
-              Dearest reader, word has it that Lady Fascia toils with unwavering
-              dedication, ensuring that this most esteemed website is crafted to
-              perfection. One can only anticipate the grand reveal with bated
-              breath.
+              Dearest reader-- word has it that Lady Fascia toils with
+              unwavering dedication, ensuring that this most esteemed website is
+              crafted to perfection. One can only anticipate the grand reveal
+              with bated breath.
             </h1>
           </div>
           <img
